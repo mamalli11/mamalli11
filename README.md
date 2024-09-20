@@ -79,7 +79,7 @@
    <br /><br />
    
    <div alight="center">
-      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&rank_icon=percentile " alt="Diwash Bhattarai" /> 
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&rank_icon=github " alt="Diwash Bhattarai" /> 
       <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Diwash Bhattarai" />
    </div>
 
