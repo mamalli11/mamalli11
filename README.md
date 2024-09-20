@@ -6,7 +6,7 @@
 
 **`A passionate student learning to code  🇳🇵 `**
 <br /><br />
-<img src="https://github.com/mamalli11/mamalli11/assets/87477700/3611ca1a-90f1-4e28-b7a4-cc14f5a63238" width="40%" align="right"/>
+<img src="https://github.com/diwashbhattarai999/diwashbhattarai999/assets/87477700/3611ca1a-90f1-4e28-b7a4-cc14f5a63238" width="40%" align="right"/>
 
 :heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
 <br />
