@@ -1,64 +1,103 @@
-### Hi there <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there!&reversal=false&textBg=false&fontSize=120&animation=twinkling&stroke=000&strokeWidth=0.2"/>
 
-I am a web Developer and software engineer
+### 🏄‍ I am
 
+# 🧑‍💻 Mohammad Javad Majidinia
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+**`A passionate student learning to code  🇳🇵 `**
+<br /><br />
+<img src="https://github.com/mamalli11/mamalli11/assets/87477700/3611ca1a-90f1-4e28-b7a4-cc14f5a63238" width="40%" align="right"/>
 
-```javascript
-const MohammadJavadMajidiNia = {
-    aboutMe: "I'm Full-Stack Developer",
-    language: ["javaScript", "typeScript"], // Node.js
-    myStack: {
-        backEnd: {
-          frameworks: ["Express.js", "Nest.js"],
-          microServiceTools: ["gRPC", "RabbitMQ"],
-          realTimeTools: ["socket.io", "webSocket"],
-          DataBases: ["MongoDB", "postgreSQL", "MySQL", "Redis", "ElasticSearch"],
-          architectures: "MVC",
-          API: ["postman", "swagger", "openAPI"],
-          
-        },         
-        frontEnd: {      
-            library : "React.js",
-            comingSoon: "Next.js" 
-        },         
-        devOps: ["Docker🐳"],               
-   },    
-   currentFocus: "Node.js Web Development",     
-   funFact: "Bug's and Errors are my best friends" 
-};
-```
+:heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
+<br />
 
-<br>
+**`Experience is the name everyone gives to their mistakes.`**
 
-## Expertise
-<p>
-  <img alt="gRPC" src="https://img.shields.io/badge/gRPC%20-%236DB33F.svg?&style=flat-square&logo=grpc&logoColor=orange&color=orange" />
-  <img alt="RabbitMQ" src="https://img.shields.io/static/v1?style=for-the-badge&message=RabbitMQ&color=FF6600&logo=RabbitMQ&logoColor=FFFFFF&label=" />
-  <img alt="Swagger" src="https://img.shields.io/static/v1?style=for-the-badge&message=Swagger&color=222222&logo=Swagger&logoColor=85EA2D&label=" />
-  <img alt="Git flow" src="https://img.shields.io/badge/Git flow%20-%236DB33F.svg?&style=flat-square&logo=git&logoColor=white&color=blue" />
-  <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
-  <img alt="Nodejs" src="https://img.shields.io/static/v1?style=for-the-badge&message=Node.js&color=339933&logo=Node.js&logoColor=FFFFFF&label=" />
-  <img alt="Nest.js", src="https://img.shields.io/static/v1?style=for-the-badge&message=NestJS&color=E0234E&logo=NestJS&logoColor=FFFFFF&label=" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-14aa52?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="PstgreSQL" src="https://img.shields.io/static/v1?style=for-the-badge&message=PostgreSQL&color=4169E1&logo=PostgreSQL&logoColor=FFFFFF&label=" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-F87822?style=flat-square&logo=mysql&logoColor=336791" />
-  <img alt="socket.io" src="https://img.shields.io/badge/-Socket.io-ffffff?style=flat-square&logo=socket.io&logoColor=black" />
-  <img alt="Redis" src="https://img.shields.io/badge/-Redis-B02727?style=flat-square&logo=redis&logoColor=white" />
-</p>
+<br />
 
+<div style="max-width: 600px; margin: 0 auto;">
+   I'm Senior student of software engineering and enthusiastic programmer building my version of the programming world one step at a time.
+   I am trying my best to learn and explore every opportunity of my life.<br/><br/><br/>
+   
+   - 🌱 I’m currently learning **BackEnd Web Development** 
+   - 📫 How to reach me **iman7260@gmail.com**
+</div>
 
-<br>
+<br /><br /><br />
 
-## Connect with me
+---
 
-[<img align="left" alt="gmail" src="https://img.shields.io/badge/Gmail-%2312100E.svg?&style=for-the-badge&logo=gmail&logoColor=white" />](mailto:iman7260@gmail.com)
+### 🧰 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
 
+#### Frontend
 
-<br>
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+   <img
+     src="https://skillicons.dev/icons?i=html,css,js,react"
+   />
+  
+</div>
+
+#### Backend
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+   
+   <img
+     src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,graphql,ts"
+   />
+
+</div>
+
+#### Database
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+   
+   <img
+     src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite"
+   />
+
+</div>
+
+#### Tools
+
+<div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
+    <img
+        src="https://skillicons.dev/icons?i=postman,git,github,vscode,docker,kafka,rabbitmq"
+      />
+
+</div>
+<br />
+
+---
+
+### 📊 Stats
+
+<br />
+
+<div align="center">
+   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mamalli11&hide_border=true&width=800&theme=radical&locale=en" alt="Diwash Bhattarai" /> 
+   <br /><br />
+   
+   <div alight="center">
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&rank_icon=percentile " alt="Diwash Bhattarai" /> 
+      <img width="auto" height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Diwash Bhattarai" />
+   </div>
+
+</div>
+
+---
+
+### <img width="30px" align="center" src="https://user-images.githubusercontent.com/87477700/212131801-737766f9-a18e-4026-a564-f79c0379e4b4.png"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" align = "center"> </h2>
+
+<div style="display:flex; gap:1rem; margin:2rem; ">
+
+   <a href="mailto:iman7260@gmail.com" target="_blank" rel="noreferrer">
+      <img align="left" alt="Gmail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />
+   </a>
+
+   <a href="https://www.linkedin.com/in/mjm-1523/" target="_blank" rel="noreferrer">
+      <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
+   </a>
+</div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
