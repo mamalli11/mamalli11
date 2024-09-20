@@ -75,12 +75,12 @@
 <br />
 
 <div align="center">
-   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mamalli11&hide_border=true&width=800&theme=radical&locale=en" alt="Diwash Bhattarai" /> 
+   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mamalli11&hide_border=true&width=800&theme=radical&locale=en" alt="Mjmn" /> 
    <br /><br />
    
    <div alight="center">
-      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&rank_icon=github " alt="Diwash Bhattarai" /> 
-      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Diwash Bhattarai" />
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&rank_icon=github " alt="Mjmn" /> 
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Mjmn" />
    </div>
 
 </div>
