@@ -1,33 +1,39 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hey%20there!&reversal=false&textBg=false&fontSize=120&animation=twinkling&stroke=000&strokeWidth=0.2"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Instructor%20%26%20Developer&reversal=false&textBg=false&fontSize=90&animation=twinkling&stroke=000&strokeWidth=0.2"/>
 
-### 🏄‍ I am
+### 🏛️ Educator | 👨‍💻 Developer
 
-# 🧑‍💻 Mohammad Javad Majidinia
+# 🧑‍🏫 Mohammad Javad Majidinia
 
-**`A passionate student learning to code  🇳🇵 `**
+**`Instructor at Islamic Azad University • M.Sc. in Software Engineering`**
 <br /><br />
 <img src="https://github.com/diwashbhattarai999/diwashbhattarai999/assets/87477700/3611ca1a-90f1-4e28-b7a4-cc14f5a63238" width="40%" align="right"/>
 
-:heart: Code | :black_heart: Roam | :blue_heart: Eat | 💚 Sleep
+🎓 Master of Science in Software Engineering  
+💡 Lifelong Learner | 🚀 Mentor | 🧑‍🏫 Educator  
 <br />
 
-**`Experience is the name everyone gives to their mistakes.`**
+**`Teaching is the art of assisting discovery.`**
 
 <br />
 
 <div style="max-width: 600px; margin: 0 auto;">
-   I'm Senior student of software engineering and enthusiastic programmer building my version of the programming world one step at a time.
-   I am trying my best to learn and explore every opportunity of my life.<br/><br/><br/>
+   I'm an instructor at <strong>Islamic Azad University</strong> holding a Master's degree in <strong>Software Engineering</strong>. 
+   I combine academic rigor with hands‑on industry practices to empower the next generation of engineers.
+   <br/><br/>
+   My work revolves around building scalable backend systems and nurturing problem‑solving mindsets in the classroom.
+   <br/><br/>
    
-   - 🌱 I’m currently learning **BackEnd Web Development** 
-   - 📫 How to reach me **iman7260@gmail.com**
+   - 🏫 Teaching & mentoring software engineering students at IAU  
+   - 🧠 Deepening expertise in **Backend Architecture & System Design**  
+   - 📫 How to reach me: **s.majidinia@iau.ac.ir**
 </div>
 
 <br /><br /><br />
 
 ---
 
-### 🧰 Languages and Tools <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
+### 🧰 Technical Toolbox  
+<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px align = "center">
 
 #### Frontend
 
@@ -35,63 +41,57 @@
    <img
      src="https://skillicons.dev/icons?i=html,css,js,react"
    />
-  
 </div>
 
 #### Backend
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   
    <img
-     src="https://skillicons.dev/icons?i=nodejs,nestjs,expressjs,graphql,ts"
+     src="https://skillicons.dev/icons?i=nodejs,nestjs,express,graphql,ts"
    />
-
 </div>
 
-#### Database
+#### Database & Messaging
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
-   
    <img
-     src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite"
+     src="https://skillicons.dev/icons?i=postgres,redis,mongodb,sqlite,kafka,rabbitmq"
    />
-
 </div>
 
-#### Tools
+#### Tools & Workflow
 
 <div style="display:flex; align-items:center; justify-content:center; flex-wrap:wrap; gap:1rem">
     <img
-        src="https://skillicons.dev/icons?i=postman,git,github,vscode,docker,kafka,rabbitmq"
+        src="https://skillicons.dev/icons?i=postman,git,github,vscode,docker"
       />
-
 </div>
 <br />
 
 ---
 
-### 📊 Stats
+### 📊 GitHub Analytics
 
 <br />
 
 <div align="center">
-   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mamalli11&hide_border=true&width=800&theme=radical&locale=en" alt="Mjmn" /> 
+   <img width="auto" height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=mamalli11&hide_border=true&theme=radical&locale=en" alt="Mjmn" /> 
    <br /><br />
    
-   <div alight="center">
-      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&rank_icon=github" alt="Mjmn" /> 
-      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamalli11&show_icons=true&hide_border=true&width=600&theme=radical&locale=en&layout=compact" alt="Mjmn" />
+   <div align="center">
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api?username=mamalli11&show_icons=true&hide_border=true&theme=radical&locale=en&rank_icon=github" alt="Mjmn" /> 
+      <img width="auto" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamalli11&show_icons=true&hide_border=true&theme=radical&locale=en&layout=compact" alt="Mjmn" />
    </div>
-
 </div>
 
 ---
 
-### <img width="30px" align="center" src="https://user-images.githubusercontent.com/87477700/212131801-737766f9-a18e-4026-a564-f79c0379e4b4.png"/> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" align = "center"> </h2>
+### 🤝 Let's Connect  
+<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" align = "center">
 
 <div style="display:flex; gap:1rem; margin:2rem; ">
 
-   <a href="mailto:iman7260@gmail.com" target="_blank" rel="noreferrer">
+   <a href="mailto:s.majidinia@iau.ac.ir" target="_blank" rel="noreferrer">
       <img align="left" alt="Gmail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />
    </a>
 
