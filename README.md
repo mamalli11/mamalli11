@@ -25,7 +25,6 @@
    
    - 🏫 Teaching & mentoring software engineering students at IAU  
    - 🧠 Deepening expertise in **Backend Architecture & System Design**  
-   - 📫 How to reach me: **s.majidinia@iau.ac.ir**
 </div>
 
 <br /><br /><br />
@@ -90,10 +89,6 @@
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="90px" align = "center">
 
 <div style="display:flex; gap:1rem; margin:2rem; ">
-
-   <a href="mailto:s.majidinia@iau.ac.ir" target="_blank" rel="noreferrer">
-      <img align="left" alt="Gmail" width="30px" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" />
-   </a>
 
    <a href="https://www.linkedin.com/in/mjm-1523/" target="_blank" rel="noreferrer">
       <img align="left" alt="LinkedIn" width="30px" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
